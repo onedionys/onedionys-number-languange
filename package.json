@@ -1,0 +1,36 @@
+{
+  "name": "onedionys-number-languange",
+  "version": "1.0.0",
+  "description": "One Dionys (Number Languange) - A package used to make it easier for developers to format numbers.",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onedionys/onedionys-number-languange.git"
+  },
+  "keywords": [
+    "onedionys",
+    "number-languange",
+    "format-number-id",
+    "format-number-en"
+  ],
+  "author": "One Dionys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onedionys/onedionys-number-languange/issues"
+  },
+  "homepage": "https://github.com/onedionys/onedionys-number-languange#readme",
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.3.0"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "lodash": "^4.17.21"
+  }
+}
