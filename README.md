@@ -35,7 +35,7 @@ formatNumberLanguange(number, lang, type)
 
 * Directly returns a string value according to the format used. Like `Satu Juta` or `One Million`.
 
-## 📆 Release Number
+## 📆 Release Date
 
 * v1.0.0 : 26 February 2024
 
