@@ -47,6 +47,7 @@ formatNumberLanguange(number, lang, type)
 * v2.5.1 : 10 March 2024
 * v2.5.2 : 11 March 2024
 * v4.0.0 : 11 March 2024
+* v4.0.1 : 12 March 2024
 
 ## 🧑 Author
 
